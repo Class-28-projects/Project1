@@ -5,4 +5,5 @@ echo single line comment starts
 # its just a comment
 echo single line cooment ends
 date 
+echo that is the date and time above
 echo thanks for coming to my ted talk
