@@ -4,4 +4,5 @@ echo this is the fifth test
 echo second test
 echo third test
 echo fourth test
+echo thaanks
 
