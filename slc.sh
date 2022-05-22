@@ -7,3 +7,5 @@ echo single line cooment ends
 date 
 echo that is the date and time above
 echo thanks for coming to my ted talk
+echo you are excelling by force
+echo with God help
