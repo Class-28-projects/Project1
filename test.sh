@@ -4,3 +4,4 @@ echo this is the fifth test
 echo second test
 echo third test
 fourth test
+echo thanks for your service
